@@ -40,7 +40,7 @@ List of commands this console current supports:
 * `update` - Updates an instance based on the class name and id by adding or updating attribute (save the change into the JSON file).
 
 #### `models/` directory contains classes used for this project:
-<img src="data_diagram/data_diagram.jpg" alt="Data Diagram" width="900"/>
+<img src="assets/data_diagram.jpg" alt="Data Diagram" width="900"/>
 [base_model.py](/models/base_model.py) - The BaseModel class from which future classes will be derived
 * `def __init__(self, *args, **kwargs)` - Initialization of the base model
 * `def __str__(self)` - String representation of the BaseModel class
