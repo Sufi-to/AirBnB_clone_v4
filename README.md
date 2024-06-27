@@ -127,7 +127,7 @@ TestBaseModel class:
 * `def test_user_class_docstring(self)` - Test for the User class docstring
 
 
-<img src="assets/airbnb.png" alt="How the Airbnb website works" width="500"/>
+<img src="assets/airbnb.png" alt="How the Airbnb website works" width="900"/>
 
 ## Examples of use
 ```
