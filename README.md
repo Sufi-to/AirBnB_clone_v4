@@ -127,6 +127,8 @@ TestBaseModel class:
 * `def test_user_class_docstring(self)` - Test for the User class docstring
 
 
+<img src="assets/airbnb.png" alt="How the Airbnb website works" width="500"/>
+
 ## Examples of use
 ```
 vagrantAirBnB_clone$./console.py
@@ -149,7 +151,7 @@ EOF  all  create  destroy  help  quit  show  update
 ** no instance found **
 (hbnb) quit
 
-<img src="assets/airbnb.png" alt="How the Airbnb website works" width="500"/>
+
 
 ## Bugs
 No known bugs at this time.
