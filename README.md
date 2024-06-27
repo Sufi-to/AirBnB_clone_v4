@@ -149,7 +149,7 @@ EOF  all  create  destroy  help  quit  show  update
 ** no instance found **
 (hbnb) quit
 
-```![airbnb](https://github.com/Sufi-to/AirBnB_clone_v4/assets/airbnb.png)
+```![airbnb](assets/airbnb.png)
 
 
 ## Bugs
