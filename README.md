@@ -148,7 +148,8 @@ EOF  all  create  destroy  help  quit  show  update
 (hbnb) show BaseModel 7da56403-cc45-4f1c-ad32-bfafeb2bb050
 ** no instance found **
 (hbnb) quit
-```![airbnb](https://github.com/Sufi-to/AirBnB_clone_v4/assets/80114437/3ccedf5c-08a4-492e-b263-1c8f7019a5e3)
+
+```![airbnb](https://github.com/Sufi-to/AirBnB_clone_v4/assets/image.png)
 
 
 ## Bugs
