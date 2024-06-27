@@ -149,8 +149,7 @@ EOF  all  create  destroy  help  quit  show  update
 ** no instance found **
 (hbnb) quit
 
-![airbnb](assets/airbnb.png)
-
+<img src="assets/airbnb.png" alt="How the Airbnb website works" width="500"/>
 
 ## Bugs
 No known bugs at this time.
